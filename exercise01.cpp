@@ -12,3 +12,4 @@ int main() {
           <<setw(10)<<setprecision(2)<<setiosflags(ios::fixed)<< marks[r] << endl;
  }
 }
+
